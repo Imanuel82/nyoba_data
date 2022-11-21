@@ -1,5 +1,7 @@
 {
 "type": "FeatureCollection",
+"name": "Titikkoordinat",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Name": "", "description": "", "No": "1", "Kode_Sampe": "KL-01", "CI": "0", "R": "178", "G": "172", "B": "156", "float_RI": "0.0171429" }, "geometry": { "type": "Point", "coordinates": [ 110.693156102776243, -7.610714335855231 ] } },
 { "type": "Feature", "properties": { "Name": "", "description": "", "No": "2", "Kode_Sampe": "KL-02", "CI": "0", "R": "191", "G": "188", "B": "167", "float_RI": "0.00791557" }, "geometry": { "type": "Point", "coordinates": [ 110.693420000246093, -7.610225960401904 ] } },
